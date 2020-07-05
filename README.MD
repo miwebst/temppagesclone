@@ -1,4 +1,4 @@
-# dotnetfoundation-website 3
+# dotnetfoundation-website 4
 
 This repository contains the solution that allows to build and deploy the [dotnetfoundation](https://dotnetfoundation.org/) website.
 
